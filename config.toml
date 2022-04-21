@@ -1,0 +1,19 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Andre Afonso'
+theme = 'sam'
+pygmentsStyle = "monokai"  # https://help.farbox.com/pygments.html
+pygmentsCodefences = true
+# googleAnalytics = ""  # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    homepage = "home"
+    footerText = "Cyber enthusiasm guaranteed"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "Some things I write"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "Who's Andre?"
