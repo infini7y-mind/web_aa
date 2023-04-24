@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html><head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Burp Labs - Access Control - Andre Afonso</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Started doing Burp Suite a while ago and now started with their own labs.
+Academy link =&gt; here
+Access Control Labs link =&gt; here
+ Access Control So&hellip; what is access control?
+Have you ever seen any type of button in any kind of platform that simply was greyed out because you didn&rsquo;t have permission to use it?
+Well, that&rsquo;s due to the access controls.
+They control who has access to what&hellip; that&rsquo;s it!" />
+	<meta property="og:image" content=""/>
+	<meta property="og:title" content="Burp Labs - Access Control" />
+<meta property="og:description" content="Started doing Burp Suite a while ago and now started with their own labs.
+Academy link =&gt; here
+Access Control Labs link =&gt; here
+ Access Control So&hellip; what is access control?
+Have you ever seen any type of button in any kind of platform that simply was greyed out because you didn&rsquo;t have permission to use it?
+Well, that&rsquo;s due to the access controls.
+They control who has access to what&hellip; that&rsquo;s it!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/burp-labs-access-control/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-05-12T01:41:25+01:00" />
+<meta property="article:modified_time" content="2022-05-12T01:41:25+01:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Burp Labs - Access Control"/>
+<meta name="twitter:description" content="Started doing Burp Suite a while ago and now started with their own labs.
+Academy link =&gt; here
+Access Control Labs link =&gt; here
+ Access Control So&hellip; what is access control?
+Have you ever seen any type of button in any kind of platform that simply was greyed out because you didn&rsquo;t have permission to use it?
+Well, that&rsquo;s due to the access controls.
+They control who has access to what&hellip; that&rsquo;s it!"/>
+
+	
+        <link href="/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+	
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.ac08a4c9714baa859217f92f051deb58df2938ec352b506df655005dcaf98cc0.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="/css/dark.726cd11ca6eb7c4f7d48eb420354f814e5c1b94281aaf8fd0511c1319f7f78a4.css"   />
+	
+
+	
+	
+		<script type="text/javascript"
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+		</script>
+	
+		
+		<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+			tex2jax: {
+				inlineMath: [['$','$'], ['\\(','\\)']],
+				displayMath: [['$$','$$'], ['\[','\]']],
+				processEscapes: true,
+				processEnvironments: true,
+				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+				TeX: { equationNumbers: { autoNumber: "AMS" },
+						 extensions: ["AMSmath.js", "AMSsymbols.js"] }
+			}
+		});
+		</script>
+	
+
+	
+	
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css">
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js"></script>
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+		
+		
+		<script>
+			document.addEventListener("DOMContentLoaded", function() {
+					renderMathInElement(document.body, {
+							delimiters: [
+									{left: "$$", right: "$$", display: true},
+									{left: "$", right: "$", display: false}
+							]
+					});
+			});
+			</script>
+	
+	
+	
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="">Andre Afonso</a>
+	</div>
+	<nav>
+		
+		<a href="/">Home</a>
+		
+		<a href="/posts">My perspective</a>
+		
+		<a href="/about">About</a>
+		
+		
+	</nav>
+</header>
+
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">Burp Labs - Access Control</h1>
+			<div class="meta">Posted on May 12, 2022</div>
+		</div>
+		
+
+		<section class="body">
+			<p>Started doing Burp Suite a while ago and now started with their own labs.</p>
+<p>Academy link =&gt; <a href="https://portswigger.net/web-security">here</a></p>
+<p>Access Control Labs link =&gt; <a href="https://portswigger.net/web-security/access-control">here</a></p>
+<p> </p>
+<h1 id="access-control">Access Control</h1>
+<p>So&hellip; what is access control?</p>
+<p>Have you ever seen any type of button in any kind of platform that simply was greyed out because you didn&rsquo;t have permission to use it?</p>
+<p>Well, that&rsquo;s due to the access controls.</p>
+<p>They <em>control</em> who has <em>access</em> to what&hellip; that&rsquo;s it! Super hard right? x)</p>
+<p> </p>
+<h2 id="lab-1-apprentice-level">Lab #1 (Apprentice level)</h2>
+<p>Most websites are built pretty much in the same way for easier dev maintenance and to cope with all the shenanigans search engines (like Google, Bing,&hellip;) require to index the website data.</p>
+<p>And in most cases the structure of privileged access looks like</p>
+<pre tabindex="0"><code>https://website.com/admin
+</code></pre><p>or has some info stored in the robots.txt file</p>
+<pre tabindex="0"><code>https://website.com/robots.txt
+</code></pre><p>In this lab&rsquo;s particular case you should see the robots.txt file ;)</p>
+<p> </p>
+<h2 id="lab-2-apprentice-level">Lab #2 (Apprentice level)</h2>
+<p>As the above practice became too popular, web developers became worried about security aspects of it (as they should) and began to try to conceal that information by setting up a less predictable URL.</p>
+<p>Thing is that most of devs think hackers can&rsquo;t code xD</p>
+<p>So the solution many times passed by constructing the webpage info based on the user with scripts inside the webpage itself.</p>
+<p>That&rsquo;s the case of this lab. You should see in the middle of a JavaScript <!-- raw HTML omitted --> the amin page you want.</p>
+
+		</section>
+
+		<div class="post-tags">
+			
+			
+			<nav class="nav tags">
+				<ul class="tags">
+					
+					<li><a href="/tags/writeup">writeup</a></li>
+					
+				</ul>
+			</nav>
+			
+			
+		</div>
+		</article>
+</main>
+<footer>
+  <div style="display:flex"></div>
+  <div class="footer-info">
+    2023  <a
+      href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
+  </div>
+</footer>
+
+
+</div>
+    </body>
+</html>
