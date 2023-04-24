@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = 'Andre Afonso'
 theme = 'archie'
 pygmentsStyle = "monokai"  # https://help.farbox.com/pygments.html
-pygmentsCodefences = true
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 # googleAnalytics = ""  # Tracking code, eg. "UA-111111111-1"
 
 [params]
