@@ -8,12 +8,20 @@ pygmentsCodefences = true
 
 [params]
     homepage = "home"
-    footerText = "Cyber enthusiasm guaranteed"
-
-[[params.mainMenu]]
-    link = "/posts"
-    text = "Some things I write"
+    footerText = "What defines me: \"Let's do it!\""
 
 [[params.mainMenu]]
     link = "/about"
     text = "Who's Andre?"
+
+[[params.mainMenu]]
+    link = "/jobs"
+    text = "@ Work"
+
+[[params.mainMenu]]
+    link = "/music"
+    text = "@ Music"
+
+[[params.mainMenu]]
+    link = "/random"
+    text = "@ Thinking"

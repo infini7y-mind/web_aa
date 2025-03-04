@@ -3,7 +3,7 @@ title: "Static website with wordpress? No thanks!"
 date: 2022-04-19T01:47:08+01:00
 showDate: true
 draft: false
-tags: ["blog","story"]
+tags: ["thinking","story"]
 ---
 
 
