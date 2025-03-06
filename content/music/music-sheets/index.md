@@ -12,16 +12,17 @@ resources:
 ---
 
 ## Music tracker
-| Title | Type | Practiced | Rehearsed | Where |
-|---|---|---|---|---|
-| Guardians of Liberty | March | Yes | Yes | Orchestra |
-| Smoke on the water | Song | No | No ||
+| Title | Type | Practiced | Rehearsed | Where | Played Live |
+| --- | --- | --- | --- | --- | --- |
+| Guardians of Liberty | March | Yes | Yes | Orchestra | No |
+| Just Dance | Song | Yes | Yes | Orchestra | No |
+| Counting Stars | Song | Yes | No |  | No |
+| Shut Up and Dance | Song | Yes | No |  | No |
+| Bom Rapaz | Song | Yes | Yes | Orchestra | No |
+| Sentir o Sol | Song | Yes | Yes | Orchestra | No |
+| Saia da Carolina | Song | Yes | Yes | Orchestra | No |
+| Mission:Impossible | Theme | Yes | Yes | Orchestra | No |
+| Smoke on the water | Song | No | No || No |
 
 ### Music sheets of my own
-- {{< a src="/content/music/music-sheets/black-parade.pdf">}}
-    Black Parade Sheet
-  {{< /a>}}
-- {{ with .Resources.Get "/black-parade.pdf" }}
-    {{ .Content }}
-  {{ end }}
-- [Welcome to the Black Parade](https://andreafonso.pt/content/music/music-sheets/black-parade.pdf)
+- Welcome to the Black Parade
