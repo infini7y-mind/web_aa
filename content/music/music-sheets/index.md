@@ -18,7 +18,9 @@ resources:
 | Smoke on the water | Song | No | No ||
 
 ### Music sheets of my own
-- {{< pdf src="/content/music/music-sheets/black-parade.pdf">}}
+- {{< a src="/content/music/music-sheets/black-parade.pdf">}}
+    Black Parade Sheet
+  {{< /a>}}
 - {{ with .Resources.Get "/black-parade.pdf" }}
     {{ .Content }}
   {{ end }}
