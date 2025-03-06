@@ -18,4 +18,4 @@ resources:
 | Smoke on the water | Song | No | No ||
 
 ### Music sheets of my own
-- Welcome to the Black Parade
+- [Welcome to the Black Parade](/content/music/music-sheets/black-parade.pdf)
