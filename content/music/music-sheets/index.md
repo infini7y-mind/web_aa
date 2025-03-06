@@ -15,7 +15,7 @@ The purpose of this page is to track my progress regarding music sheet reading c
 
 ## Tracker
 | Title | Type | Instrument | Practiced | Rehearsed | Where | Played Live |
-| --- | --- | --- | --- | --- | --- |
+| -------------------- | ----- | ----------------- | --- | --- | --------- | --- |
 | Guardians of Liberty | March | Bass Drum         | Yes | Yes | Orchestra | No  |
 | Life and Peace       | March | Drum Set          | No  | No  |           | No  |
 | New Castle March     | March | Drum Set          | No  | No  |           | No  |
