@@ -5,10 +5,10 @@ showDate: false
 draft: false
 tags: ["music", "life"]
 resources:
-  - src: black-parade.pdf
-    title: Welcome to the Black Parade
+  - src: "black-parade.pdf"
+    title: "Welcome to the Black Parade"
     params:
-      icon: pdf
+      icon: "pdf"
 ---
 
 ## Music tracker
@@ -18,7 +18,8 @@ resources:
 | Smoke on the water | Song | No | No ||
 
 ### Music sheets of my own
+- {{< pdf src="/content/music/music-sheets/black-parade.pdf">}}
 - {{ with .Resources.Get "/black-parade.pdf" }}
     {{ .Content }}
   {{ end }}
-- [Welcome to the Black Parade](/content/music/music-sheets/black-parade.pdf)
+- [Welcome to the Black Parade](https://andreafonso.pt/content/music/music-sheets/black-parade.pdf)

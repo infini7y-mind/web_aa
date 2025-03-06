@@ -6,6 +6,9 @@ pygmentsStyle = "monokai"  # https://help.farbox.com/pygments.html
 pygmentsCodefences = true
 # googleAnalytics = ""  # Tracking code, eg. "UA-111111111-1"
 
+[security]
+  enableInlineShortcodes = true
+
 [params]
     homepage = "home"
     footerText = "What defines me: \"Let's do it!\""
