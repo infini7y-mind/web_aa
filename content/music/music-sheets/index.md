@@ -11,18 +11,23 @@ resources:
       icon: "pdf"
 ---
 
-## Music tracker
-| Title | Type | Practiced | Rehearsed | Where | Played Live |
-| --- | --- | --- | --- | --- | --- |
-| Guardians of Liberty | March | Yes | Yes | Orchestra | No |
-| Just Dance | Song | Yes | Yes | Orchestra | No |
-| Counting Stars | Song | Yes | No |  | No |
-| Shut Up and Dance | Song | Yes | No |  | No |
-| Bom Rapaz | Song | Yes | Yes | Orchestra | No |
-| Sentir o Sol | Song | Yes | Yes | Orchestra | No |
-| Saia da Carolina | Song | Yes | Yes | Orchestra | No |
-| Mission:Impossible | Theme | Yes | Yes | Orchestra | No |
-| Smoke on the water | Song | No | No || No |
+The purpose of this page is to track my progress regarding music sheet reading capabilities and what instruments I play the most.
 
-### Music sheets of my own
+## Tracker
+| Title | Type | Instrument | Practiced | Rehearsed | Where | Played Live |
+| --- | --- | --- | --- | --- | --- |
+| Guardians of Liberty | March | Bass Drum         | Yes | Yes | Orchestra | No  |
+| Life and Peace       | March | Drum Set          | No  | No  |           | No  |
+| New Castle March     | March | Drum Set          | No  | No  |           | No  |
+| Whispers in the Wind | March | Glock             | Yes | No  |           | No  |
+| Just Dance           | Song  | Drum Set          | Yes | Yes | Orchestra | No  |
+| Counting Stars       | Song  | Drum Set          | Yes | No  |           | No  |
+| Shut Up and Dance    | Song  | Drum Set          | Yes | No  |           | No  |
+| Bom Rapaz            | Song  | Drum Set          | Yes | Yes | Orchestra | No  |
+| Sentir o Sol         | Song  | Drum Set + Shaker | Yes | Yes | Orchestra | No  |
+| Saia da Carolina     | Song  | Drum Set          | Yes | Yes | Orchestra | No  |
+| Smoke on the water   | Song  | Drum Set          | No  | No  |           | No  |
+| Mission:Impossible   | Theme | Drum Set          | Yes | Yes | Orchestra | No  |
+
+### Produced
 - Welcome to the Black Parade
