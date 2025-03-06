@@ -4,11 +4,11 @@ date: 2025-03-06
 showDate: false
 draft: false
 tags: ["music", "life"]
-[[resources]]
-    src = 'black-parade.pdf'
-    title = 'Welcome to the Black Parade'
-    [resources.params]
-        icon = 'pdf'
+resources:
+  - src: black-parade.pdf
+    title: Welcome to the Black Parade
+    params:
+      icon: pdf
 ---
 
 ## Music tracker
