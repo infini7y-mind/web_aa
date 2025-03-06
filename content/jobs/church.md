@@ -25,7 +25,7 @@ Check all the cool things that I've done in a church on different contexts
     - Worship Guitarist + Band Lead
 
 ### European Evangelical Church (2019 - now)
-*[Foursquare Europe Youth](https://youth.foursquare-europe.org/)*
+&nbsp;*[Foursquare Europe Youth](https://youth.foursquare-europe.org/)*
 - Social Media
 - Multimedia
 - Worship Vocal

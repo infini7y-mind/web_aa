@@ -13,12 +13,13 @@ Now I'm trying to build my relationship with Copilot too :p
 
 ### Professional XP
 
-- Scrum Master, Vulnerability Management Team @ **Siemens** *(2024 - now)*
-- Cybersecurity Professional, Vulnerability Management Team @ **Siemens** *(2021 - now)*
+- Scrum Master, Vulnerability Mgmt Team @ **Siemens** *(2024 - now)*
+- Cybersecurity Professional, Vulnerability Mgmt Team @ **Siemens** *(2021 - now)*
 - Digital Marketing Manager @ **TIPS4Y** *(2017 - 2021)*
 - Several Marketing and Consulting roles *(2010 - 2017)*
 
-### Most Relevant Trainings
+### Most Relevant Certifications
+- ***2025 Goal***: ITIL 4
 - Scrum Alliance: Certified Scrum Master
 - Elastic: Certified Analyst
 - Elastic: Certified Engineer
