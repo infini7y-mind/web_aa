@@ -6,7 +6,7 @@ draft: false
 tags: ["home", "life"]
 ---
 
-Although it might not be thought as work related, I do believe that owning a home and trying to make everything work around here is an implrtant skill set that is worth mentioning :)
+Although it might not be thought as work related, I do believe that owning a home and trying to make everything work around here is an important skill set that is worth mentioning :)
 
 ### Experience
 - Chores planner
