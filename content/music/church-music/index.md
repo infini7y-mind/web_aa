@@ -12,4 +12,4 @@ resources:
 Here are some of the musics I already played in the church context.
 
 Só a Ti
-{{< audio src=./so-a-ti-exercise.mp3 >}}
+{{< audio src=so-a-ti-exercise.mp3 >}}
