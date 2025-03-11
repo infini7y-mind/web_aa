@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andre Afonso</title>
+    <link>/</link>
+    <description>Recent content on Andre Afonso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music Sheets</title>
+      <link>/music/music-sheets/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/music/music-sheets/</guid>
+      <description>The purpose of this page is to track my progress regarding music sheet reading capabilities and what instruments I play the most.
+Tracker    Title Type Instrument Practiced Rehearsed Where Played Live     Guardians of Liberty March Bass Drum Yes Yes Orchestra No   Life and Peace March Drum Set No No  No   New Castle March March Drum Set No No  No   Whispers in the Wind March Glock Yes No  No   Just Dance Song Drum Set Yes Yes Orchestra No   Counting Stars Song Drum Set Yes No  No   Shut Up and Dance Song Drum Set Yes No  No   Bom Rapaz Song Drum Set Yes Yes Orchestra No   Sentir o Sol Song Drum Set + Shaker Yes Yes Orchestra No   Saia da Carolina Song Drum Set Yes Yes Orchestra No   Smoke on the water Song Drum Set No No  No   Mission:Impossible Theme Drum Set Yes Yes Orchestra No    Produced  Welcome to the Black Parade  </description>
+    </item>
+    
+    <item>
+      <title>Church experience</title>
+      <link>/jobs/church/</link>
+      <pubDate>Sun, 02 Mar 2025 17:14:10 +0100</pubDate>
+      
+      <guid>/jobs/church/</guid>
+      <description>You might think that one goes to church and that&amp;rsquo;s it right?&amp;hellip; Hehe xD
+Check all the cool things that I&amp;rsquo;ve done in a church on different contexts
+Local Church @Catholic church (2004 - 2012)
+ Worship guitarist Choir vocal  @Evangelical church (2017 - now) Igreja do Evangelho Quadrangular
+ Head Quarters  Worship Vocal + Guitarrist Media Manager   Barreiro  Worship Guitarist + Band Lead    European Evangelical Church (2019 - now)  Foursquare Europe Youth</description>
+    </item>
+    
+    <item>
+      <title>Home experience</title>
+      <link>/jobs/home/</link>
+      <pubDate>Sun, 02 Mar 2025 17:14:10 +0100</pubDate>
+      
+      <guid>/jobs/home/</guid>
+      <description>Although it might not be thought as work related, I do believe that owning a home and trying to make everything work around here is an important skill set that is worth mentioning :)
+Experience  Chores planner Handyman Loving husband (Im)patient father&amp;hellip; still working on this Condominium Administrator  </description>
+    </item>
+    
+    <item>
+      <title>Work experience</title>
+      <link>/jobs/work/</link>
+      <pubDate>Sun, 02 Mar 2025 17:14:10 +0100</pubDate>
+      
+      <guid>/jobs/work/</guid>
+      <description>As I have the overall working experience in the about section, I will only specify the main categories and tools used in those categories
+Skills/Tools   Marketer
+ Social Media Adobe Suite (Image/Video editing, UI/UX flows, and more) Email Marketing Branding Strategy    Cybersecurity Professional
+ Reporting Specialist  Kibana PowerBI   Software Developer  Elastic Stack (Elasticsearch, Logstash) Python Ruby Documentation      Scrum Master</description>
+    </item>
+    
+    <item>
+      <title>My music learning path</title>
+      <link>/music/learning-path/</link>
+      <pubDate>Sun, 02 Mar 2025 16:48:25 +0100</pubDate>
+      
+      <guid>/music/learning-path/</guid>
+      <description>I&amp;rsquo;ve always liked music!
+Can&amp;rsquo;t remember when it all started but my path took wings when my parents got me a cheap guitar and I just spent my time trying things&amp;hellip; not as hard as I would like nowadays but hey&amp;hellip; we can&amp;rsquo;t all be Jacobs right? :p
+Path  2004 - Self learned acoustic guitar 2004 - Played in the boy scouts and in catholic church 2008 - Joined a university band called anTUNiA as guitarist and percussionist  https://www.</description>
+    </item>
+    
+    <item>
+      <title>Burp Labs - Access Control</title>
+      <link>/posts/burp-labs-access-control/</link>
+      <pubDate>Thu, 12 May 2022 01:41:25 +0100</pubDate>
+      
+      <guid>/posts/burp-labs-access-control/</guid>
+      <description>Started doing Burp Suite a while ago and now started with their own labs.
+Academy link =&amp;gt; here
+Access Control Labs link =&amp;gt; here
+ Access Control So&amp;hellip; what is access control?
+Have you ever seen any type of button in any kind of platform that simply was greyed out because you didn&amp;rsquo;t have permission to use it?
+Well, that&amp;rsquo;s due to the access controls.
+They control who has access to what&amp;hellip; that&amp;rsquo;s it!</description>
+    </item>
+    
+    <item>
+      <title>Owasp Juiceshop</title>
+      <link>/posts/owasp-juiceshop/</link>
+      <pubDate>Thu, 21 Apr 2022 04:50:20 +0100</pubDate>
+      
+      <guid>/posts/owasp-juiceshop/</guid>
+      <description>Some things that were unsolved that I found out in the demo version :)
+Target: OWASP Juice Shop
+ Bully Chatbot You have to release your inner nagger and ask repeatedly for coupons :)
+What worked for me was to type coupons +=1
+ Repetitive Registration This one is pretty simple.
+Fill out everything correctly, then go to the first &amp;ldquo;Password&amp;rdquo; field and change it.</description>
+    </item>
+    
+    <item>
+      <title>Static website with wordpress? No thanks!</title>
+      <link>/random/static-website/</link>
+      <pubDate>Tue, 19 Apr 2022 01:47:08 +0100</pubDate>
+      
+      <guid>/random/static-website/</guid>
+      <description>I had a fancy shmancy website with wordpress, and I was very proud! Nice pentest tooling logos, badges for showing off, great header image. But besides terrible loading times, 3 hours to set up a 2min reading time blog post or hard time customizing css&amp;hellip; none of that really showed what I was actually learning or even who I really became after entering the cybersec world.
+ Then, in a video of my brother David, I remembered that his guest Graham Helton (great guy) had a great website!</description>
+    </item>
+    
+    <item>
+      <title>Hey there,</title>
+      <link>/about/</link>
+      <pubDate>Sun, 17 Apr 2022 20:02:10 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I like coffee&amp;hellip; a lot!
+Just like most night owls :)
+If you ever talk to me, you&amp;rsquo;ll understand I&amp;rsquo;m a curious guy that likes to ask questions about almost everything. I love to learn, that&amp;rsquo;s why Google is a good friend of mine! Now I&amp;rsquo;m trying to build my relationship with Copilot too :p
+Professional XP  Scrum Master, Vulnerability Mgmt Team @ Siemens (2024 - now) Cybersecurity Professional, Vulnerability Mgmt Team @ Siemens (2021 - now) Digital Marketing Manager @ TIPS4Y (2017 - 2021) Several Marketing and Consulting roles (2010 - 2017)  Most Relevant Certifications  2025 Goal: ITIL 4 Scrum Alliance: Certified Scrum Master Elastic: Certified Analyst Elastic: Certified Engineer CompTIA: Security+   Don&amp;rsquo;t let anything get in your way, specially if it is to reach me out!</description>
+    </item>
+    
+    <item>
+      <title>picoCTF web exploitation writeups</title>
+      <link>/posts/picoctf-web/</link>
+      <pubDate>Wed, 23 Mar 2022 23:42:04 +0100</pubDate>
+      
+      <guid>/posts/picoctf-web/</guid>
+      <description>Hey, this is a simple writeup on the challenges provided by picoCTF
+Hope you find it useful ;)
+ Get aHEAD For this challenge you should think about the HTTP request methods (GET, POST, PUT, DELETE, HEAD,&amp;hellip;)
+See the HEAD there? Does it look like something you have on the title of the challenge? xP
+The HEAD gives you the website&amp;rsquo;s metadata. It should do the same thing as a GET but without all the body, although sometimes they are different.</description>
+    </item>
+    
+  </channel>
+</rss>

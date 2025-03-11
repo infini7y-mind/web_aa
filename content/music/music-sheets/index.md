@@ -31,3 +31,4 @@ The purpose of this page is to track my progress regarding music sheet reading c
 
 ### Produced
 - Welcome to the Black Parade
+- [Welcome to the Black Parade](./black-parade.pdf)
