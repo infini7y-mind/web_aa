@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hi, I&#39;m Andre</title>
+    <link>/pt/tags/</link>
+    <description>Recent content in Tags on Hi, I&#39;m Andre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chords</title>
+      <link>/pt/tags/chords/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/tags/chords/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chords-pt</title>
+      <link>/pt/tags/chords-pt/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/tags/chords-pt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guitar</title>
+      <link>/pt/tags/guitar/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/pt/tags/guitar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

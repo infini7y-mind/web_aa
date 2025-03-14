@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hi, I&#39;m Andre</title>
+        <link>/pt/posts/</link>
+        <description>Recent content in Posts on Hi, I&#39;m Andre</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+        <atom:link href="/pt/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Pai Nosso</title>
+            <link>/pt/posts/2025/03/pai-nosso/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+            
+            <guid>/pt/posts/2025/03/pai-nosso/</guid>
+            <description>Guitar Capo #
+C G pai nosso, nos céus Am Em santo é o teu nome </description>
+            <content type="html"><![CDATA[<p>Guitar
+Capo #</p>
+<pre tabindex="0"><code>C              G
+pai nosso, nos céus
+Am          Em
+santo é o teu nome
+</code></pre>]]></content>
+        </item>
+        
+    </channel>
+</rss>

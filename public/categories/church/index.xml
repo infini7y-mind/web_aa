@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>church on Hi, I&#39;m Andre</title>
+    <link>/categories/church/</link>
+    <description>Recent content in church on Hi, I&#39;m Andre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/church/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music @ Church - Só a Ti</title>
+      <link>/posts/2025/03/music-church-s%C3%B3-a-ti/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025/03/music-church-s%C3%B3-a-ti/</guid>
+      <description>audio = &amp;ldquo;/audio/teu-nome-e-santo-exercise.mp3&amp;rdquo;
+audio = &amp;ldquo;/content/music/church-music/so-a-ti-exercise.mp3&amp;rdquo;
+audio = &amp;ldquo;./so-a-ti-exercise.mp3&amp;rdquo;
+  [audio] [[audio.params]] src = /audio/so-a-ti-exercise.mp3
+{{ .Params.Audio }}
+{{ }}
+{{ }}
+audio
+{ size=10 duration=10 cycle=forever }</description>
+    </item>
+    
+    <item>
+      <title>[M@C] Teu Nome é Santo</title>
+      <link>/posts/2025/03/mc-teu-nome-%C3%A9-santo/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025/03/mc-teu-nome-%C3%A9-santo/</guid>
+      <description>audio = &amp;ldquo;/audio/teu-nome-e-santo-exercise.mp3&amp;rdquo;
+audio = &amp;ldquo;/content/music/church-music/so-a-ti-exercise.mp3&amp;rdquo;
+audio = &amp;ldquo;./so-a-ti-exercise.mp3&amp;rdquo;
+  [audio] [[audio.params]] src = /audio/so-a-ti-exercise.mp3
+{{ .Params.Audio }}
+{{ }}
+{{ }}
+audio
+{ size=10 duration=10 cycle=forever }</description>
+    </item>
+    
+  </channel>
+</rss>
