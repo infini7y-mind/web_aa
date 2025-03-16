@@ -11,11 +11,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/pt/categories/"
                 />
@@ -58,11 +53,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/pt/"
                 />
@@ -102,11 +92,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/pt/posts/"
                 />
@@ -117,11 +102,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
