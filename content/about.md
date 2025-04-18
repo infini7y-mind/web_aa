@@ -1,19 +1,44 @@
 +++
-title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
-[ author ]
-  name = "Hugo Authors"
+title = "Hey there,"
+date = "2012-04-17"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+I like coffee... a lot!
 
-It makes use of a variety of open source projects including:
+Just like most night owls :)
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+If you ever talk to me, you'll understand I'm a curious guy that likes to ask questions about almost everything. I love to learn, that's why Google is a good friend of mine!
+Now I'm trying to build my relationship with Copilot too :p
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+&nbsp;
+
+### Professional XP
+
+- Scrum Master, Vulnerability Mgmt Team @ **Siemens** *(2024 - now)*
+- Reporting Specialist, Vulnerability Mgmt Team @ **Siemens** *(2021 - now)*
+- Digital Marketing Manager @ **TIPS4Y** *(2017 - 2021)*
+- Several Marketing and Consulting roles *(2010 - 2017)*
+- [more](/jobs) &#8594;
+
+&nbsp;
+
+### Most Relevant Certifications
+- ***2025 Goal***: ITIL 4
+- Scrum Alliance: Certified Scrum Master
+- Elastic: Certified Analyst
+- Elastic: Certified Engineer
+- CompTIA: Security+
+
+
+&nbsp;
+
+*Any questions?* Reach me out @ [andrepintoafonso@gmail.com](mailto)!
+
+
+Stay awesome!
+
+André
+
+![Andre Afonso](/about-aa.png)
+
+&nbsp;

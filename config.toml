@@ -117,8 +117,8 @@ disableHugoGeneratorInject = false
   # plausibleDataDomain = 'test.com'
   # plausibleScriptSource = 'https://plausible.io/js/script.js'
 
-  #[params.author]
-  #  name = "Jane Doe"
+  [params.author]
+    name = "Andre"
 
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
@@ -127,13 +127,13 @@ disableHugoGeneratorInject = false
     trademark = 2025
     rss = false
     copyright = false
-    author = false
+    author = true
 
     topText = []
-    bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "with &#10084; by Andre"
-    ]
+    #bottomText = [
+    #  "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+    #  "with &#10084; by Andre"
+    #]
 
   # Colors for favicons
   #
@@ -259,7 +259,7 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "Andre"
     url        = "about/"
   #[[menu.main]]
   #  identifier = "posts"
@@ -267,15 +267,15 @@ disableHugoGeneratorInject = false
   #  url        = "posts/"
   [[menu.main]]
     identifier = "jobs"
-    name       = "Jobs"
+    name       = "@Work"
     url        = "jobs/"
   [[menu.main]]
     identifier = "music"
-    name       = "Music"
+    name       = "@Music"
     url        = "music/"
   [[menu.main]]
     identifier = "thinking"
-    name       = "Thinking"
+    name       = "@Thinking"
     url        = "thinking/"
 
 [security]

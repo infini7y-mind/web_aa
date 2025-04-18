@@ -1,35 +1,15 @@
-+++
-categories = ["music"]
-date = "2025-03-11"
-description = "Musics played at church"
-featured = ""
-featuredalt = ""
-featuredpath = "date"
-linktitle = "music"
-title = "Music @ Church"
-slug = "Church Music"
-type = "post"
-+++
+---
+title: "Church Music"
+date: 2025-03-11
+showDate: false
+draft: false
+tags: ["music", "life"]
+resources:
+  - src: "so-a-ti-exercise.mp3"
+    title: "So a Ti"
+---
 
-Here are some of the musics I already played in the church context
+Here are some of the musics I already played in the church context.
 
-
-{{< audio src="/audio/so-a-ti-exercise.mp3" >}} 
-
-Chords about musics in the church
-
-<<< links to chords >>>
-<<< maybe tags?? >>>
-<<< separate into drum stuff and other instruments >>>
-<<< separate into played a lot know how to play and tried once >>>
-<<< wish list to play??? >>>
-<<< structure for both types of music? church and others/personal/general/... >>>
-<<<  >>>
-
-## Played in church
-Pai nosso - rendering of "our father"
-## Practiced
-Só a ti
-Teu nome é santo
-## Played for fun
-Eu te vejo em tudo
+Só a Ti
+{{< audio src=so-a-ti-exercise.mp3 >}}

@@ -15,9 +15,9 @@ I had a fancy shmancy website with wordpress, and I was very proud! Nice pentest
 
 &nbsp;
 
-Then, in a video of my brother [David](https://www.youtube.com/channel/UCX2ADIIC5GYNERNSxSerKow), I remembered that his guest Graham Helton (great guy) had a [great website](https://www.grahamhelton.com/)!
+Then, in a video of my brother [David](https://www.youtube.com/channel/UCX2ADIIC5GYNERNSxSerKow), I remembered that his guest Graham Helton (great guy) had a [great website](https://grahamhelton.com/home/)! --> 2025 Disclaimer: Graham already changed his website engine.
 
-So I took a look in the source code and there it was...
+So, back in 2022, I took a look in the source code and there it was...
 
 ```html
 <meta name="generator" content="Hugo 0.68.3">
