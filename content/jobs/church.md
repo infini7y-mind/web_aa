@@ -3,7 +3,8 @@ title: "Church experience"
 date: 2025-03-02T17:14:10+01:00
 showDate: false
 draft: false
-tags: ["church", "life"]
+tags: ["experience", "church"]
+categories: ["work"]
 ---
 
 You might think that one goes to church and that's it right?...

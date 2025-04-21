@@ -1,6 +1,6 @@
 ---
 title: "My music learning path"
-date: 2025-03-02T16:48:25+01:00
+date: 2025-04-01
 showDate: false
 draft: false
 tags: ["experience"]

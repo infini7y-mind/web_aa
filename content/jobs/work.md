@@ -3,7 +3,8 @@ title: "Work experience"
 date: 2025-03-02T17:14:10+01:00
 showDate: false
 draft: false
-tags: ["work", "life"]
+tags: ["experience"]
+categories: ["work"]
 ---
 
 As I have the overall working experience in the [about section](/about), I will only specify the main categories and tools used in those categories

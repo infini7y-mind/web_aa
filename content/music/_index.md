@@ -1,4 +1,4 @@
 ---
-title: "All about music"
+title: "My musical interests"
 draft: false
 ---

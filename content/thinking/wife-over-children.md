@@ -1,6 +1,6 @@
 ---
 title: "Why I will always choose my wife"
-date: 2025-03-22
+date: 2025-04-18
 tags:
 - "thinking"
 - "tip"
