@@ -1,17 +1,13 @@
 ---
 title: "Music Sheets 🎼"
-date: 2025-03-01
+date: 2025-04-01
 showDate: false
 draft: false
 tags: ["orchestra", "music-sheets"]
 categories: ["music"]
 ---
 
-The purpose of this page is to track my progress regarding music sheet reading capabilities and in what contexts I play the most.
-
-This page is directly related to my music learning path [found here](/music/learning-path).
-
-&nbsp;
+This is my personal repo of musics that I play or produce regarding music sheets.
 
 ## Musics list
 
@@ -31,31 +27,14 @@ This page is directly related to my music learning path [found here](/music/lear
 #### 🎬 Soundtracks
 - Mission:Impossible (*JO* 🤝 🎤)
 
-## Tracker
-{{< details summary="May 17th 2025 (*JO*)" >}}
-**Event:** 4th Juvenil Orchestras Gathering in Barreiro
-
-**Setlist:**
-- Guardians of Liberty
-- Life and Peace
-- Whispers in the Wind
-- Counting Stars
-- Sentir o Sol
-- Mission:Impossible
-- Just Dance
-    - Percussion bridge
-- Shut Up and Dance
-{{< /details >}}
-
 ## Produced
-Here is some work producing music sheets
 - Happy birthday
-- [Welcome to the Black Parade](/docs/black-parade.pdf) *(WIP)*
+- [Welcome to the Black Parade](/docs/black-parade.pdf) (Glocknspeil) *(WIP)*
 
 &nbsp;
-&nbsp;
-&nbsp;
 
+&nbsp;
+___
 #### Legend
 - 🤝 = Rehearsed (group)
 - 🎤 = Live Performed
