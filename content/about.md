@@ -7,8 +7,11 @@ I like coffee... a lot!
 
 Just like most night owls :)
 
-If you ever talk to me, you'll understand I'm a curious guy that likes to ask questions about almost everything. I love to learn, that's why Google is a good friend of mine!
-Now I'm trying to build my relationship with Copilot too :p
+If you ever talk to me, you'll understand I'm a curious guy that likes to ask questions about almost everything... i.e. I love to learn!
+
+That's why I spend most of my time googling and trying to understand how to befriend both Copilot and ChatGPT :p
+
+God and my wife are the only allowed on my sudoers file!!
 
 &nbsp;
 
@@ -32,7 +35,7 @@ Now I'm trying to build my relationship with Copilot too :p
 
 &nbsp;
 
-*Any questions?* Reach me out @ [andrepintoafonso@gmail.com](mailto)!
+*Any questions?* Reach me out @ [andrepintoafonso+aapt@gmail.com](mailto)!
 
 
 Stay awesome!

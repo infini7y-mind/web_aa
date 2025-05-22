@@ -7,7 +7,7 @@ tags: ["church", "worship", "music-sheets"]
 categories: ["music"]
 ---
 
-This page is a personal resource repository of worship music played alone or in church.
+This page is a personal resource repository of worship music.
 
 
 

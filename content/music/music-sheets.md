@@ -1,5 +1,5 @@
 ---
-title: "Music Sheets"
+title: "Music Sheets 🎼"
 date: 2025-03-01
 showDate: false
 draft: false
@@ -7,44 +7,57 @@ tags: ["orchestra", "music-sheets"]
 categories: ["music"]
 ---
 
-The purpose of this page is to track my progress regarding music sheet reading capabilities and what instruments I play the most.
+The purpose of this page is to track my progress regarding music sheet reading capabilities and in what contexts I play the most.
 
 This page is directly related to my music learning path [found here](/music/learning-path).
 
 &nbsp;
 
-#### Legend
+## Musics list
 
-- &#129345; --> Drum set
-- &#129688; --> Other percussion instruments (shaker, glockenspiel, triangle,...)
-- &#10209; --> Practiced
-- &#10023; --> Rehearsed in group
-- &#10022; --> Played live
-- &#10004; --> Played live multiple times
+#### 🚶‍♂️🥁 Marches
+- Guardians of Liberty (*JO* 🤝 🎤)
+- Life and Peace (*JO* 🤝 🎤)
+- New Castle March (*JO*)
+- Whispers in the Wind (*JO* 🤝 🎤)
+#### 🎸 Bands
+- Just Dance (*JO* 🤝 🎤)
+- Counting Stars (*JO* 🤝 🎤)
+- Shut Up and Dance (*JO* 🤝 🎤)
+- Bom Rapaz (*JO* 🤝)
+- Sentir o Sol (*JO* 🤝 🎤)
+- Saia da Carolina (*JO* 🤝)
+- Smoke on the water (*JO* 🤝)
+#### 🎬 Soundtracks
+- Mission:Impossible (*JO* 🤝 🎤)
 
-&nbsp;
+## Tracker
+{{< details summary="May 17th 2025 (*JO*)" >}}
+**Event:** 4th Juvenil Orchestras Gathering in Barreiro
 
-#### Tracker
+**Setlist:**
+- Guardians of Liberty
+- Life and Peace
+- Whispers in the Wind
+- Counting Stars
+- Sentir o Sol
+- Mission:Impossible
+- Just Dance
+    - Percussion bridge
+- Shut Up and Dance
+{{< /details >}}
 
-- Guardians of Liberty, *March* &#129345; &#10209; &#10023; (Orchestra)
-- Life and Peace, *March* &#129345;
-- New Castle March, *March* &#129345;
-- Whispers in the Wind, *March* &#129688; &#10209;
-- Just Dance, Song &#129345; &#129688; &#10209; &#10023; (Orchestra)
-- Counting Stars, *Song* &#129345; &#10209;
-- Shut Up and Dance, *Song* &#129345; &#10209;
-- Bom Rapaz, *Song* &#129345; &#10209; &#10023; (Orchestra)
-- Sentir o Sol, *Song* &#129345; &#129688; &#10209; &#10023; (Orchestra)
-- Saia da Carolina, *Song* &#129345; &#10209; &#10023; (Orchestra)
-- Smoke on the water, *Song* &#129345;
-- Mission:Impossible, *Theme* &#129345; &#10209; &#10023; (Orchestra)
-###### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Template: (Title, Music Type, Instrument, Practised + Rehearsed + Played Live, Context)*
-
-&nbsp;
-
-### Produced
+## Produced
 Here is some work producing music sheets
 - Happy birthday
 - [Welcome to the Black Parade](/docs/black-parade.pdf) *(WIP)*
 
 &nbsp;
+&nbsp;
+&nbsp;
+
+#### Legend
+- 🤝 = Rehearsed (group)
+- 🎤 = Live Performed
+- *JO* = Barreiro's Municipal Juvenile Orchestra
+- *B* = Barreiro's Municipal Band
